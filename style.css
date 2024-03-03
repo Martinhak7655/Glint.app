@@ -743,7 +743,7 @@ textarea {
         gap: 50px;
     }
     .contact-div {
-        width: auto;
+        width: 100%;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -767,6 +767,7 @@ textarea {
         gap: 50px;
     }
     .contact-div2 {
+        height: 800px;
         margin-left: 20px;
     }
 }
